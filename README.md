@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Anshul 👋
 
-<!--
-**CoderAnshulSoni/CoderAnshulSoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Java Developer, lifelong learner, and problem solver focused on mastering backend engineering, cloud technologies, and scalable system design. Driven by curiosity, continuous growth, and the goal of building impactful software that serves millions. 🚀
 
-Here are some ideas to get you started:
+## Tech Stack
+- Java ☕
+- Spring Boot 🚀
+- Microservices 🔗
+- REST APIs 🌐
+- SQL & NoSQL Databases 🗄️
+- AWS ☁️
+- Docker 🐳
+- Git & GitHub 🐙
+- CI/CD ⚙️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Learning
+- Advanced System Design 🏗️
+- Cloud-Native Architectures ☁️
+- Kubernetes ⚓
+- Distributed Systems 🌍
+  
+## Goals
+- Build production-grade backend systems
+- Contribute to open-source projects
+- Strengthen expertise in scalable cloud applications
+
+Always learning, building, and improving.
